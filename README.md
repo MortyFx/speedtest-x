@@ -1,12 +1,12 @@
 <img src='https://raw.githubusercontent.com/BadApple9/images/main/logo.png'></img>
 
-![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/badapple9/speedtest-x/docker-build.yml) ![GitHub last commit](https://img.shields.io/github/last-commit/badapple9/speedtest-x) ![GitHub](https://img.shields.io/github/license/badapple9/speedtest-x)
+![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/MortyFx/speedtest-x/docker-build.yml) ![GitHub last commit](https://img.shields.io/github/last-commit/MortyFx/speedtest-x) ![GitHub](https://img.shields.io/github/license/MortyFx/speedtest-x)
 
 This project is an extension of [LibreSpeed](https://github.com/librespeed/speedtest), LibreSpeed is a pretty lightweight speedtest tool.
 
 speedtest-x uses file datebase to save speedtest results from various users. Thus you can check out different results from various countries/regions.
 
-[中文文档](https://github.com/BadApple9/speedtest-x/blob/master/README_CN.md)
+[中文文档](https://github.com/MortyFx/speedtest-x/blob/master/README_CN.md)
 
 [Join Telegram group](https://t.me/xiaozhu5)
 
@@ -22,7 +22,7 @@ speedtest-x uses file datebase to save speedtest results from various users. Thu
 
 #### <img src='https://img.icons8.com/fluency/512/docker.png' width="2%"></img> Deploy by Docker (Supported platforms: AMD64/ARM64)
 > 1. Pull [Image](https://hub.docker.com/r/badapple9/speedtest-x) `docker pull badapple9/speedtest-x`
-> 2. Run container `docker run -d -p 9001:80 -it badapple9/speedtest-x` (💡 See more parameters [Here](https://github.com/BadApple9/speedtest-x/wiki/Docker-deploy))
+> 2. Run container `docker run -d -p 9001:80 -it badapple9/speedtest-x` (💡 See more parameters [Here](https://github.com/MortyFx/speedtest-x/wiki/Docker-deploy))
 >3. Open `{your_ip}:9001`
 
 -------
@@ -55,10 +55,10 @@ speedtest-x uses file datebase to save speedtest results from various users. Thu
 
 ## Contributors
 
-<a href="https://github.com/badapple9/speedtest-x/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=badapple9/speedtest-x" />
+<a href="https://github.com/MortyFx/speedtest-x/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MortyFx/speedtest-x" />
 </a>
 
 ## License
 
-See [License](https://github.com/BadApple9/speedtest-x/blob/master/LICENSE)
+See [License](https://github.com/MortyFx/speedtest-x/blob/master/LICENSE)
