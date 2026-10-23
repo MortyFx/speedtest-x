@@ -2,6 +2,8 @@
 
 ![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/MortyFx/speedtest-x/docker-build.yml) ![GitHub last commit](https://img.shields.io/github/last-commit/MortyFx/speedtest-x) ![GitHub](https://img.shields.io/github/license/MortyFx/speedtest-x)
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/MortyFx/speedtest-x)
+
 This project is an extension of [LibreSpeed](https://github.com/librespeed/speedtest), LibreSpeed is a pretty lightweight speedtest tool.
 
 speedtest-x uses file datebase to save speedtest results from various users. Thus you can check out different results from various countries/regions.
